@@ -7,3 +7,4 @@ config/*
 !config/test.js
 
 npm-debug.log.DS_Store
+.DS_Store
